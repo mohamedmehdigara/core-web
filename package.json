@@ -13,5 +13,8 @@
   "version": "0.5.2",
   "volta": {
     "node": "16.5.0"
+  },
+  "devDependencies": {
+    "@mrhenry/babel-plugin-core-web": "^0.5.2"
   }
 }
